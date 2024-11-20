@@ -14,7 +14,7 @@ This tool addresses these gaps, offering a seamless, scalable, and customizable 
 
 ## **Features**  
 ### **1. Automatic Link Replacement**  
-- Uses a **link replacement database** to map English links to Quebec French equivalents.  
+- Uses a **link replacement database** to map English links to second-language equivalents.  
 - Configurable and easily maintainable through a centralized database.  
 
 ### **2. Image Localization**  
