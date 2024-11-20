@@ -5,7 +5,7 @@ This repository contains a robust solution to automate the localization of websi
 
 ### **Why This Project?**  
 The default DeepL AI translations often miss essential elements such as:  
-- Correctly replacing links with their Quebec French equivalents.  
+- Correctly replacing links with their second-language equivalents.  
 - Localizing images to match regional preferences.  
 
 This tool addresses these gaps, offering a seamless, scalable, and customizable solution for multilingual content management.  
