@@ -32,25 +32,32 @@ This tool addresses these gaps, offering a seamless, scalable, and customizable 
 ## **Installation**  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/<your-repo-name>/quebec-french-translation-workflow.git  
-   cd quebec-french-translation-workflow  
+   git clone https://github.com/diaabraham/LinguaSync.git 
+   cd LinguaSync  
    ```  
 2. Install dependencies:  
    ```bash  
    pip install -r requirements.txt  
    ```  
 3. Configure the `config.json` file:  
-   - Add your HubSpot API key.  
-   - Define paths for link and image replacement databases.  
+   - Add your HubSpot or other CMS API key.  
+   - Define paths for link and image replacement databases.
+4. Run `npm start` to start the automation process (no-gui).
+
 
 ---
 
-## **Usage**  
-1. **Run Translation Workflow**:  
-   ```bash  
-   python translation_automation.py  
-   ```  
-2. Review logs to ensure accuracy.  
+## **Usage with GUI**  
+To start using the automation tool:
+1. Run the backend API: `npm run start:api`
+2. In a separate terminal, run the React frontend: `npm run start:ui`
+3. Access the user interface in your browser (typically at `http://localhost:3000`)
+4. Use the UI to manage mappings and trigger the automation process
+
+## **NO-GUI usage**
+For automated runs without the UI:
+1. Update the `src/main.ts` file to include any specific logic you need
+2. Run the automation: `npm start`  
 3. Update databases as needed to add new links or image mappings.  
 
 ---
