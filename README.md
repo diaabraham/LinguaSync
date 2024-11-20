@@ -1,9 +1,7 @@
-# **README.md**  
-
-## **Quebec French Translation Workflow Automation**  
+## **LinguaSync - A Language (currently French only) Translation Workflow Automation**  
 
 ### **Overview**  
-This repository contains a robust solution to automate the localization of websites for Quebec French, built to improve upon default translation tools like DeepL. The tool ensures precise translations while handling critical tasks like link replacement, image localization, and integration with HubSpot CMS.  
+This repository contains a robust solution to automate the localization of websites for French, built to improve upon default translation tools like DeepL. The tool ensures precise translations while handling critical tasks like link replacement, image localization, and integration with HubSpot CMS.  
 
 ### **Why This Project?**  
 The default DeepL AI translations often miss essential elements such as:  
