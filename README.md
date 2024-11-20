@@ -1,7 +1,3 @@
-### GitHub Repository Documentation: Quebec French Translation Workflow Automation  
-
----
-
 # **README.md**  
 
 ## **Quebec French Translation Workflow Automation**  
